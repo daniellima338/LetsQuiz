@@ -48,37 +48,46 @@ If you have any feedback or questions, head over to my GitHub contact details an
 <a></a>
 
 
-### Design Choices
+### **Design Choices**
 
 <a></a>
 
-#### Fonts
- I have visited [Google Fonts](https://fonts.google.com/ "Google Fonts") to explore the various options. The fonts used in this project are [Raleway] (https://fonts.google.com/specimen/Raleway "Google fonts: Raleway") for the overall text and [Fira Sans] (https://fonts.google.com/specimen/Fira+Sans#standard-styles) for the headlines. The fonts have a light readthrough and do not come of as strong to the eye. It goes well in line with the hip and light design of the website. 
+#### **Fonts**
+ I have visited [Google Fonts](https://fonts.google.com/ "Google Fonts") to explore the various options. The fonts used in this project are [Raleway] (https://fonts.google.com/specimen/Raleway) for the overall text and [Fira Sans] (https://fonts.google.com/specimen/Fira+Sans#standard-styles) for the headlines. The fonts have a light readthrough and do not come of as strong to the eye. It goes well in line with the hip and light design of the website. 
 
 <a></a>
 
-#### Icons
+#### **Icons**
 I have used icons from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). The icons fit with the corresponding features that the users of the website are to understand. The visual aspect will make it easier to make a fast intepretation of what the text is about.
 
 
 <a></a>
 
-#### Colors
+#### **Colors**
 
 
-You can view my color scheme [here](assets/images/ways-colors.png)
+You can view my color scheme [here](assets/images/colors.png)
 
 ![Color Scheme](assets/images/colors.png)
 
-I have used to contract checker on Coolors in order to make sure that the contract is sufficient.
-This way my content will be easily readable. 
+The colors are inspired by the colors from Who Want To Be a Millionaire. Here is a description of the colors: 
+
+* #081525: Will be the background color of the website. It has a dark blue tone to it, illustrating the misterious in a quiz. 
+
+* #164467: Is a more light blue color. It will be used for the tabs of the answers. This is to keep consistency, but still keep the tone of the page.
+
+* #FFFFFF: The white color will be used in various places as contrast. 
+
+* #E1A02E: The orange color is also inspired by Who Wants To Be a Millionaire. It will be used as the text color, and has a good contrast to the Dark Blue. 
+
+* #4C6976: Is a Teal color that goes well with the other blue colours. It will be used for the scoring board and tutorial. 
 
 I have used to contract checker on Coolors in order to make sure that the contract is sufficient.
 This way my content will be easily readable. 
 
 <a></a>
 
-##### Changes made to color scheme 
+#### **Changes made to color scheme**
 
 
 <a></a>
