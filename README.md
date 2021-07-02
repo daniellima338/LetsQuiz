@@ -1,102 +1,314 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **Ways**
 
-Welcome daniellima338,
+![Mokeup Image](assets/images/mock-up.png)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. The last update to this file was: **July 2, 2021**
+## **Goal for this project** 
+LetsQuiz is a fun an challenging quiz game, where you will get points for each correct answer you get. The questions will be of varied difficulty, but all of general knowledge. See if you can hit the top of the list! 
 
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+Thank you for visiting my project!
+If you have any feedback or questions, head over to my GitHub contact details and feel free to reach out to me.
 
 ---
 
-Happy coding!
+<a></a>
+
+## Table of contents 
+
+
+## **UX**
+
+<a></a>
+
+### **User Stories**
+
+#### **User**
+
+
+
+#### **Owner** 
+
+
+### **User Expectations**
+* Easy to navigate.
+* Flow of the sign up process takes a short time.
+* Understand the purpose of the webiste within a short time.
+* Be able to complain if any issues occure.
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+
+### Design Choices
+
+<a></a>
+
+#### Fonts
+ I have visited [Google Fonts](https://fonts.google.com/ "Google Fonts") to explore the various options. The fonts used in this project are [Noto Serif JP] (https://fonts.google.com/specimen/Noto+Serif+JP "Google fonts: Montserrat") for the overall text and [Libre Baskerville] (https://fonts.google.com/specimen/Libre+Baskerville#standard-styles) for the headlines. The fonts have a light readthrough and do not come of as strong to the eye. It goes well in line with the hip and light design of the website. 
+
+<a></a>
+
+#### Icons
+I have used icons from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). The icons fit with the corresponding features that the users of the website are to understand. The visual aspect will make it easier to make a fast intepretation of what the text is about.
+
+
+<a></a>
+
+#### Colors
+
+
+You can view my color scheme [here](assets/images/ways-colors.png)
+
+![Color Scheme](assets/images/colors.png)
+
+I have used to contract checker on Coolors in order to make sure that the contract is sufficient.
+This way my content will be easily readable. 
+
+I have used to contract checker on Coolors in order to make sure that the contract is sufficient.
+This way my content will be easily readable. 
+
+<a></a>
+
+##### Changes made to color scheme 
+
+
+<a></a>
+
+#### Structure
+The website structure is built with [Bootstrap](https://getbootstrap.com/).
+Bootstrap provides content for both CSS and JavaScript, as functionality with both is important.
+As Bootstrap is designed for mobile first, I will be certain that my website functions well on mobile. 
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+--- 
+
+## Wireframes
+I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
+First I created a wireframe for mobile, as the approach is mobile first. Thereafter wireframes for desktop and tablets. 
+
+
+<a></a>
+
+### Changes made to wireframes 
+
+
+You can find my wireframes below:
+
+### [Desktop Wireframes]
+    ()
+
+### [Tablet Wireframes]
+    ()
+
+### [Mobile Wireframes]
+    ()
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+---
+
+## Features
+
+<a></a>
+
+### Existing Features
+
+#### Navigation
+
+<a></a>
+
+#### Hero Image
+
+<a></a>
+
+#### Welcome Section
+
+
+<a></a>
+
+#### About us Section
+
+
+<a></a>
+
+#### Meet the team
+
+
+<a></a>
+
+#### Contact 
+
+<a></a>
+
+#### Footer
+
+<a></a>
+
+### Features to be implemented
+
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+
+## Technologies used
+
+<a></a>
+
+### Languages
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+<a></a>
+
+### Libraries & Frameworks
+
+* [Font Awesome](https://fontawesome.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+
+<a></a>
+
+### Tools
+* [Git](https://git-scm.com/)
+* [GitPod](https://www.gitpod.io/)
+* [Balsamic](https://balsamiq.com/wireframes/)
+* [W3C HTML Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## Bugs
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## Testing
+
+### A first time visitor to this website
+
+#### User story: 
+* **Plan** 
+
+* **Implementation**
+
+
+* **Test**    
+
+
+* **Result**  
+
+
+* **Verdict**  
+
+
+
+#### User story: 
+* **Plan** 
+
+
+* **Implementation**  
+
+
+* **Test** 
+
+
+* **Result** 
+
+* **Verdict** 
+
+#### User story: 
+* **Plan** 
+
+
+* **Implementation**
+
+
+* **Test**  
+ 
+
+* **Result** 
+
+
+* **Verdict**  
+
+
+#### User story:
+* **Plan** 
+
+* **Implementation** 
+
+* **Test**   
+
+* **Result**
+
+* **Verdict**    
+
+#### User story: 
+* **Plan** 
+
+* **Implementation**  
+
+* **Test** 
+
+* **Result** 
+
+* **Verdict**     
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## Bugs 
+
+### 1
+
+### 2
+
+
+### 3
+
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## Deployment
+
+I deployed my Ways project website in the following way:
+
+* Logged in to my GitHub account and locating my repository
+* Clicked on the settings icon (near the top right of the page)
+* Scrolled down the page to locate the 'GitHub Pages' section
+* Under "Source", select "Master" in the dropdown menu.
+* In the tab next to "Source", select "/root" if not already selected by default
+* Click save then the page will automatically refresh.
+* The link should show in a banner just above "GitHub Pages" section.
+* This deployed my project to the URL: ()
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## Credits
+
+### Content - Media - Inspiration
+
+<a></a>
+
+### Acknowledgements
+
+[Back to Top](#table-of-contents)
+
+<a></a>
