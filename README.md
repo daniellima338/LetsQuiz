@@ -1,4 +1,4 @@
-# **Ways**
+# **LetsQuiz**
 
 ![Mokeup Image](assets/images/mock-up.png)
 
@@ -22,10 +22,19 @@ If you have any feedback or questions, head over to my GitHub contact details an
 ### **User Stories**
 
 #### **User**
+* As a user i want to be entertained by the game i am playing.
+* As a user i want to be able to see how well i did compared to others.
+* As a user i want to be able to learn new things, by playing the game.
+* As a user i want to see the rigth answer to the question, when i have answered.
+* As a user i want to be able to contact the owner, if i have anything to ask about.
 
 
 
 #### **Owner** 
+* As a owner i want people to strenghten their general knowledge.
+* As a owner i want people to easily follow how to play the game.
+* As a owner I want the game to be entertaining.
+* As a owner I want people to play more than one round of the game. 
 
 
 ### **User Expectations**
@@ -44,7 +53,7 @@ If you have any feedback or questions, head over to my GitHub contact details an
 <a></a>
 
 #### Fonts
- I have visited [Google Fonts](https://fonts.google.com/ "Google Fonts") to explore the various options. The fonts used in this project are [Noto Serif JP] (https://fonts.google.com/specimen/Noto+Serif+JP "Google fonts: Montserrat") for the overall text and [Libre Baskerville] (https://fonts.google.com/specimen/Libre+Baskerville#standard-styles) for the headlines. The fonts have a light readthrough and do not come of as strong to the eye. It goes well in line with the hip and light design of the website. 
+ I have visited [Google Fonts](https://fonts.google.com/ "Google Fonts") to explore the various options. The fonts used in this project are [Raleway] (https://fonts.google.com/specimen/Raleway "Google fonts: Raleway") for the overall text and [Fira Sans] (https://fonts.google.com/specimen/Fira+Sans#standard-styles) for the headlines. The fonts have a light readthrough and do not come of as strong to the eye. It goes well in line with the hip and light design of the website. 
 
 <a></a>
 
