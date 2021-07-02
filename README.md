@@ -92,10 +92,20 @@ This way my content will be easily readable.
 
 <a></a>
 
-#### Structure
+### **Structure**
 The website structure is built with [Bootstrap](https://getbootstrap.com/).
 Bootstrap provides content for both CSS and JavaScript, as functionality with both is important.
 As Bootstrap is designed for mobile first, I will be certain that my website functions well on mobile. 
+
+#### **Home Page**
+The home page is kept very simple, with only options to play the game or to view the tutorial. 
+In the bottom there will also be options to contact owner or view social media. THe CTA is for the user to easily understand the game, and then fast get started.
+
+#### **Quiz Page**
+Again the look will be simple, and the focus will be on the game. The user will see the question and have 4 different answers to choose from. They will be able to see their score in the bottom. There will again be opportunity to contact owner and social links in the bottom. 
+
+#### **Tutorial**
+The tutorial will have the same design as the other pages. Here there will be 3 steps, that will quickly and easily tell the user what they need to do, to play the game. 
 
 [Back to Top](#table-of-contents)
 
@@ -103,67 +113,31 @@ As Bootstrap is designed for mobile first, I will be certain that my website fun
 
 --- 
 
-## Wireframes
+### Wireframes
 I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
 First I created a wireframe for mobile, as the approach is mobile first. Thereafter wireframes for desktop and tablets. 
 
 
-<a></a>
+You can find my wireframes below:
+
+#### [Desktop Wireframes]
+    [Home page](wireframes/desktop_1.png)
+    [Quiz page](wireframes/desktop_2.png)
+    [Tutorial page](wireframes/desktop_3.png)
+
+#### [Tablet Wireframes]
+    [Home page](wireframes/tablet_1.png)
+    [Quiz page](wireframes/tablet_2.png)
+    [Tutorial page](wireframes/tablet_3.png)
+
+#### [Mobile Wireframes]
+    [Home page](wireframes/mobile_1.png)
+    [Quiz page](wireframes/mobile_2.png)
+    [Tutorial page](wireframes/mobile_3.png)
 
 ### Changes made to wireframes 
 
-
-You can find my wireframes below:
-
-### [Desktop Wireframes]
-    ()
-
-### [Tablet Wireframes]
-    ()
-
-### [Mobile Wireframes]
-    ()
-
 [Back to Top](#table-of-contents)
-
-<a></a>
-
----
-
-## Features
-
-<a></a>
-
-### Existing Features
-
-#### Navigation
-
-<a></a>
-
-#### Hero Image
-
-<a></a>
-
-#### Welcome Section
-
-
-<a></a>
-
-#### About us Section
-
-
-<a></a>
-
-#### Meet the team
-
-
-<a></a>
-
-#### Contact 
-
-<a></a>
-
-#### Footer
 
 <a></a>
 
