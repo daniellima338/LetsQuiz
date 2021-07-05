@@ -35,6 +35,7 @@ h1 {
     font-size: 5.2rem;
 }
 
+/* overlays */
 
 
 /* Quiz content */
@@ -52,19 +53,22 @@ h1 {
     justify-content: center;
 }
 
-.quizcategories {
-    color: #E1A02E;
-    background-color: transparent;
-}
 
 /* jumbotron */
-
-
-/* buttons */
-button {
-    color:  #E1A02E;
+.jumbotron {
+    background-color: rgba(22, 68, 103, 0.7);
+    z-index: 1;
+}
+.jumbotron a {
+    color: #E1A02E;
 }
 
+/* buttons */
+
+/* hyperlinks */
+
+
+/* video */
 #myVideo {
     position: fixed;
     min-width: 100%;
@@ -74,3 +78,6 @@ button {
 
 
 /* footer */
+.footer {
+    color: #E1A02E;
+}
