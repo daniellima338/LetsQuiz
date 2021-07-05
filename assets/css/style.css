@@ -35,32 +35,42 @@ h1 {
     font-size: 5.2rem;
 }
 
-.opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(#164467);
-}
+
 
 /* Quiz content */
 
-.quizcategories {
+.quizarea {
+    height: 100vh;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+.quizcategories {
+    color: #E1A02E;
+    background-color: transparent;
+}
+
 /* jumbotron */
 
-.jumbotron {
-    background-color: transparent;
-
-}
 
 /* buttons */
 button {
-    background-color: transparent;
     color:  #E1A02E;
 }
+
+#myVideo {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+
+
+/* footer */
