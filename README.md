@@ -113,7 +113,7 @@ The tutorial will have the same design as the other pages. Here there will be 3 
 
 --- 
 
-### Wireframes
+### **Wireframes**
 I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
 First I created a wireframe for mobile, as the approach is mobile first. Thereafter wireframes for desktop and tablets. 
 
@@ -135,25 +135,26 @@ You can find my wireframes below:
     [Quiz page](wireframes/mobile_2.png)
     [Tutorial page](wireframes/mobile_3.png)
 
-### Changes made to wireframes 
+### **Changes made to wireframes**
 
 [Back to Top](#table-of-contents)
 
 <a></a>
 
-### Features to be implemented
+### **Features to be implemented**
 
-
+* A brief description of each correct answer. 
+* 
 [Back to Top](#table-of-contents)
 
 <a></a>
 
 
-## Technologies used
+## **Technologies used**
 
 <a></a>
 
-### Languages
+### **Languages**
 
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -161,7 +162,7 @@ You can find my wireframes below:
 
 <a></a>
 
-### Libraries & Frameworks
+### **Libraries & Frameworks**
 
 * [Font Awesome](https://fontawesome.com/)
 * [Bootstrap](https://getbootstrap.com/)
@@ -169,7 +170,7 @@ You can find my wireframes below:
 
 <a></a>
 
-### Tools
+### **Tools**
 * [Git](https://git-scm.com/)
 * [GitPod](https://www.gitpod.io/)
 * [Balsamic](https://balsamiq.com/wireframes/)
@@ -180,13 +181,13 @@ You can find my wireframes below:
 
 <a></a>
 
-## Bugs
+## **Bugs**
 
 [Back to Top](#table-of-contents)
 
 <a></a>
 
-## Testing
+## **Testing**
 
 ### A first time visitor to this website
 
@@ -262,7 +263,7 @@ You can find my wireframes below:
 
 <a></a>
 
-## Bugs 
+## **Bugs**
 
 ### 1
 
@@ -276,7 +277,7 @@ You can find my wireframes below:
 
 <a></a>
 
-## Deployment
+## **Deployment**
 
 I deployed my Ways project website in the following way:
 
@@ -293,13 +294,13 @@ I deployed my Ways project website in the following way:
 
 <a></a>
 
-## Credits
+## **Credits**
 
-### Content - Media - Inspiration
+### **Content - Media - Inspiration**
 
 <a></a>
 
-### Acknowledgements
+### **Acknowledgements**
 
 [Back to Top](#table-of-contents)
 
