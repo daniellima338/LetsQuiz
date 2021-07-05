@@ -10,13 +10,14 @@ body {
     font-weight: 600;
     background-color: #081525;
     font-size: 1.6rem;
+    color:  #E1A02E;
 }
 
 h1,
 h2,
 h3 {
     font-family: "Fira Sans", sans-serif;
-    color: #4D9348;
+    color:  #E1A02E;
 }
 
 h3 {
@@ -43,8 +44,23 @@ h1 {
     background-color: rgba(#164467);
 }
 
+/* Quiz content */
+
 .quizcategories {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+
+}
+
+/* buttons */
+button {
+    background-color: transparent;
+    color:  #E1A02E;
 }
