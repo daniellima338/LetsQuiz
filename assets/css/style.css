@@ -57,6 +57,39 @@ h1 {
 }
 
 
+/* Play Content */
+.playarea {
+    height: 90vh;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Tutorial content */
+
+.tutorialarea {
+    height: 80vh;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.back a{
+    color: #E1A02E;
+}
 /* jumbotron */
 .jumbotron {
     background-color: rgba(22, 68, 103, 0.7);
