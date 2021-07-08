@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LetsQuiz</title>'
+    
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+            emailjs.init("user_yuN5lJJlD1s17ASRGUS6R");
+        })();
+    </script>
+</head>
+<body>
+    <header>
+
+    </header>
+    <!-- Callout -->
+
+
+    <div class="contact-area text-center">
+        <div class="jumbotron">
+            <section class="container-fluid">
+                <div class="row bg-color-contact">
+                    <div>
+                        <h3 class="contact-heading uppercase text-center">Do you have any feedback?</h3>
+                        <h5 class="uppercase text-center">Feel free to word it below!</h5>
+                    </div>
+                </div>
+                    <div class="center-form row">
+                            <form onsubmit="return sendMail(this);">
+                                <input type="text" name="name" class="form-control" id="fullname" placeholder="Name" required/>
+                                <input type="text" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required/>
+                                <textarea rows="5" name="projectsummary" class="form-control" id="projectsummary" placeholder="Project Description" required></textarea>
+                                <button type="submit" class="btn btn-secondary center-block">Send Your Feedback</button>
+                            </form>
+                    </div>
+            </section>
+        </div>
+    </div>
+    <!-- /.Callout -->
+
+    <footer class="container-fluid text-center">
+        <div class="row">
+            <div class="col-4 footer-header">
+                <a href="index.html">Home</a>
+            </div>
+            <div class="col-4">
+                <ul class="list-inline social-links mt-2">
+                    <li class="list-inline-item">
+                        <a href="https://www.facebook.com/waysforyouth/" target="_blank">
+                            <i class="fab fa-facebook-square"></i>
+                            <span class="sr-only">Facebook</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.linkedin.com/company/waysforyouth/about/" target="_blank">
+                            <i class="fab fa-linkedin"></i>
+                            <span class="sr-only">LinkedIn</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.instagram.com/wegotways/" target="_blank">
+                            <i class="fab fa-instagram"></i>
+                            <span class="sr-only">Instagram</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="owner col-4">
+                <h4><i class="fas fa-copyright"></i>LetsQuiz</h4>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+</body>
+</html>
