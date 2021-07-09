@@ -28,7 +28,7 @@ function setupAnswers(results){
                      .concat(results.incorrect_answers)
                      .sort((a, b) => 0.5 - Math.random());
      
-     var i = 0;
+     var i = 1;
      answers.forEach(function (answer) {
          $("#answer_" + i).text(answer)  
          i++
