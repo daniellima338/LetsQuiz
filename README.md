@@ -182,6 +182,7 @@ You can find my wireframes below:
 <a></a>
 
 ## **Bugs**
+* Answer 4 was not displaying due to a bug in the loop interating through the questions. Fixed it by starting the loop at 1 instead of 0. 
 
 [Back to Top](#table-of-contents)
 
