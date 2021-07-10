@@ -2,7 +2,7 @@ function sendMail(contactForm) {
     emailjs.send("service_ek62ji9","letsQuiz", {
         "from_name": contactForm.name.value,
         "from_email": contactForm.emailaddress.value,
-        "project_request": contactForm.projectsummary.value
+        "project_request": contactForm.feedback.value
     })
     .then(
         function(response) {
