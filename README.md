@@ -80,7 +80,7 @@ The colors are inspired by the colors from Who Want To Be a Millionaire. Here is
 
 * #E1A02E: The orange color is also inspired by Who Wants To Be a Millionaire. It will be used as the text color, and has a good contrast to the Dark Blue. 
 
-* #4C6976: Is a Teal color that goes well with the other blue colours. It will be used for the scoring board and tutorial. 
+* #a4b100: Is a Yellow color that goes well with the other colours. It will be used as shadow for when a player wants to hit a button.
 
 I have used to contract checker on Coolors in order to make sure that the contract is sufficient.
 This way my content will be easily readable. 
