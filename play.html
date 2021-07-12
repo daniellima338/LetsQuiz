@@ -13,34 +13,32 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 </head>
 <body>
-        <h1 class="text-center">LetsQuiz</h1>
+    <h1 class="text-center">LetsQuiz</h1>
     <!-- jumbotron -->
-    <div class="playarea text-center">
-        <div class="jumbotron">
-            <div class="row">
-                <div class="col-12">
-                    <h1 id="question">Question</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-3">
-                    <button id="answer_1">Answer 1</button>
-                </div>
-                <div class="col-3">
-                    <button id="answer_2">Answer 2</button>
-                </div>
-                <div class="col-3">
-                    <button id="answer_3">Answer 3</button>
-                </div>
-                <div class="col-3">
-                    <button id="answer_4">Answer 4</button>
-                </div>
+    <div class="question-area text-center container">
+        <div class="jumbotron row">
+            <div class="col-12">
+                <h1 id="question">Question</h1>
             </div>
         </div>
     </div>
+
+    <div class="row answer-area">
+        <button class="col-5 button-style" id="answer_1">Answer 1</button>
+        <button class="col-5 button-style" id="answer_2">Answer 2</button>
+        
+        <button class="col-5 button-style" id="answer_3">Answer 3</button>
+        <button class="col-5 button-style" id="answer_4">Answer 4</button>
+    </div>
+
+    <div>
+        <a href="index.html">
+            <h1 class="text-center">Back to Start</h1>
+        </a>
+    </div>
     <!-- /.Callout -->
 
-    <footer class="container-fluid text-center">
+    <footer class="container-fluid text-center fixed-bottom">
         <div class="row">
             <div class="col-4 footer-header">
                 <a href="contact.html">Contact</a>
